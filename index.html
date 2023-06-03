@@ -1,0 +1,31 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link  href="style.css" rel="stylesheet"/>
+    <title>Alarm Clock</title>
+</head>
+
+<body>
+        <main class="container">
+            <!-- clock-face will show the dynamic clock time -->
+            <section id="clock-face"></section>
+            <!-- set-alarms will set take inputs for hours, minutes and seconds from user  -->
+            <section class="set-alarms">
+                <input type="number" id="hrs" placeholder="Hr.">
+                <input type="number" id="min" placeholder="Min.">
+                <input type="number" id="sec" placeholder="Sec.">
+                <input type="text" id="time-indicator" placeholder="AM/PM">
+                <button id="alarmSet">Set Alarm</button>
+            </section>
+            <!-- in addAlarms alarms will be added on the air by JS  -->
+            <section class="addAlarms"></section>
+            
+        </main>
+
+    
+    </main>
+    <script src="clock.js"></script>
+</body>
+</html>
