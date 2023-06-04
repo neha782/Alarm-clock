@@ -23,7 +23,6 @@ function checkAlarm(currentTime) {
 
         if (currentTime ===  alarmtime){
             alert('Alarm Triggring!!');
-            clearInterval(clock);
         }
     });
 }
