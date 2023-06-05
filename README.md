@@ -8,4 +8,4 @@
 
 Here the live link of the project: https://neha782.github.io/Alarm-clock/
 
-Thank you to read till end!!
+Thank you for reading till here!!!
