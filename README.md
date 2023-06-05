@@ -7,3 +7,5 @@
 ->When the alarm will trigger, it will show an alert.
 
 Here the live link of the project: https://neha782.github.io/Alarm-clock/
+
+Thank you to read till end!!
